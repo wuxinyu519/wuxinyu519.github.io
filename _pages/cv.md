@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Baylor University, 2024.9 ~ present
-* M.S. in Dongguk University, 2021.9 ~ 2024.3
-* B.S. in GitHub, Xinyu College, 2017.9 ~ 2021.6
+* M.S. in Artificial Intelligence, Dongguk University, 2021.9 ~ 2024.3
+* B.S. in Computer Science, Xinyu College, 2017.9 ~ 2021.6
 
 Work experience
 ======
