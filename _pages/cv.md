@@ -17,12 +17,12 @@ Education
 
 Work experience
 ======
-* Spring 2024: <a href="{http://highimage.co.kr/ ">HITS(에이치아이티에스)</a>
+* Spring 2024: **HITS(에이치아이티에스) (http://highimage.co.kr/ )**
   * Object detection
   * Semi-conductor packing
   <!-- * <ul http://highimage.co.kr/ > -->
 
-* Summar 2023: **Asleep(Internship)<https://www.asleep.ai/en/company >
+* Summar 2023: **Asleep(Internship)(https://www.asleep.ai/en/company)**
   * Time-series based prediction
   * Sleep stage dection
 
