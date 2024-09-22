@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-About
 ======
 I am currently an PhD student in the Computer Science at Baylor University, Texas, US, under the supervision of [**Dr. Chen Zhao**](https://charliezhaoyinpeng.github.io/homepage/). Since March 2024, I received my M.S. in Artificial Intelligence from Dongguk University (DGU), South Korea, in 2021, under the supervision of [Prof. Hyerung Jang](https://sites.google.com/view/hrjang/home). 
 
