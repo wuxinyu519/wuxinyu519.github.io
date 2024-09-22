@@ -9,25 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently a PhD student in the Computer Science Department at Baylor University, Texas, US, under the supervision of [**Dr. Chen Zhao**](https://charliezhaoyinpeng.github.io/homepage/). Since March 2024, I received my M.S. in Artificial Intelligence Department from Dongguk University (DGU), South Korea, in 2021, under the supervision of [Prof. Hyerung Jang](https://sites.google.com/view/hrjang/home). 
+I am currently pursuing a PhD in the Computer Science Department at Baylor University, Texas, under the supervision of [**Dr. Chen Zhao**](https://charliezhaoyinpeng.github.io/homepage/). Prior to this, I completed my M.S. in the Department of Artificial Intelligence at Dongguk University (DGU), South Korea, in March 2024, under the guidance of [Prof. Hyerung Jang](https://sites.google.com/view/hrjang/home). 
 
-**Beyond academics**, I adopted a cute cat named Taurus, who has traveled with me across South Korea, China, and the United States. When I’m free, I usually watch comedy series, learn new hobbies, and swim, as it's my favorite way to unwind. So, if you're interested in cats, traveling, or swimming, feel free to reach out—I'm definitely in!
+**Outside of my academic life**, I have a cat named Taurus, who has accompanied me across South Korea, China, and the United States. In my free time, I enjoy watching comedy series, learning new hobbies, and swimming, which I find to be the perfect way to relax. If you share an interest in cats, traveling, or swimming, feel free to connect—I’m always open to a chat!
 
 
-Research
+Research Interests
 ======
-Here are a few specific fields of my current research topics:
+My current research focuses on the following areas:
 
-**Generative Model** - A pivotal area in machine learning to generate data samples from complex distributions and learn meaningful representations from unlabelled data in various applications such as audio, images, video, and text.
+**Generative Model** - A key area in machine learning aimed at generating data samples from complex distributions and learning meaningful representations from unlabelled data across various domains such as audio, images, video, and text.
 
-**Representation Learning** - A process in machine learning where algorithms extract meaningful patterns from raw data to create representations that are easier to understand and process. These representations can be designed for interpretability, reveal hidden features, or be used for transfer learning. They are valuable across many fundamental machine learning tasks like image classification and retrieval.
-
+**Representation Learning** - In this area, I work on developing algorithms that extract meaningful patterns from raw data to create representations that are easier to interpret and process. These representations can be designed for interpretability, uncover hidden features, or support transfer learning, with applications in fundamental tasks like image classification and retrieval.
 
 Education
 ======
-* Ph.D in Computer Science, Baylor University, 2024.9 ~ present
-* M.S. in Artificial Intelligence, Dongguk University, 2021.9 ~ 2024.3
-* B.S. in Computer Science, Xinyu College, 2017.9 ~ 2021.6
+* Ph.D. in Computer Science, Baylor University (September 2024 – Present)
+* M.S. in Artificial Intelligence, Dongguk University (September 2021 – March 2024)
+* B.S. in Computer Science, Xinyu College (September 2017 – June 2021)
 
 Work experience
 ======
