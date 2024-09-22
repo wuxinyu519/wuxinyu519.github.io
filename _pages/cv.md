@@ -22,7 +22,7 @@ Work experience
   * Semi-conductor packing
   <!-- * <ul http://highimage.co.kr/ > -->
 
-* Summar 2023: <a href="{https://www.asleep.ai/en/company ">Asleep(Internship)</a>
+* Summar 2023: **Asleep(Internship)<https://www.asleep.ai/en/company >
   * Time-series based prediction
   * Sleep stage dection
 
