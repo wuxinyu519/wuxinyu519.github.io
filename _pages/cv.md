@@ -13,7 +13,7 @@ About
 I am currently an PhD student in the Computer Science at Baylor University, Texas, US, under the supervision of [**Dr. Chen Zhao**](https://charliezhaoyinpeng.github.io/homepage/). Since March 2024, I received my M.S. in Artificial Intelligence from Dongguk University (DGU), South Korea, in 2021, under the supervision of [Prof. Hyerung Jang](https://sites.google.com/view/hrjang/home). 
 
 **Beyond academics**, I adopted a cute cat named Taurus, who has traveled with me across South Korea, China, and the United States. When I’m free, I usually watch comedy series, learn new hobbies, and swim, as it's my favorite way to unwind. So, if you're interested in cats, traveling, or swimming, feel free to reach out—I'm definitely in!
-## Taurus' Profile
+<!-- ## Taurus' Profile
 
 ![Taurus](<img src="../images/taurus.png" alt="Taurus" style="border-radius: 50%; width: 150px; height: 150px;">)
 
@@ -23,7 +23,7 @@ I am currently an PhD student in the Computer Science at Baylor University, Texa
 - **Favorite Activities:** Napping, playing with string toys, watching birds from the window
 - **Personality:** Curious, affectionate, sometimes mischievous
 
----
+--- -->
 
 Research
 ======
