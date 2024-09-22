@@ -11,16 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Baylor University, 2024.9 ~ present
+* M.S. in Dongguk University, 2021.9 ~ 2024.3
+* B.S. in GitHub, Xinyu College, 2017.9 ~ 2021.6
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: HITS(에이치아이티에스)
+  * Object detection
+  * Semi-conductor packing
+  * http://highimage.co.kr/
 
 * Fall 2015: Research Assistant
   * Github University
