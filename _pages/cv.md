@@ -15,7 +15,7 @@ I am currently an PhD student in the Computer Science at Baylor University, Texa
 **Beyond academics**, I adopted a cute cat named Taurus, who has traveled with me across South Korea, China, and the United States. When I’m free, I usually watch comedy series, learn new hobbies, and swim, as it's my favorite way to unwind. So, if you're interested in cats, traveling, or swimming, feel free to reach out—I'm definitely in!
 ## Taurus' Profile
 
-![Taurus](../images/taurus.png)
+![Taurus](<img src="../images/taurus.png" alt="Taurus" style="border-radius: 50%; width: 150px; height: 150px;">)
 
 - **Name:** Taurus
 - **Adopted:** Yes
