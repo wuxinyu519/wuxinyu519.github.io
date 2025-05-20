@@ -16,11 +16,11 @@ Outside of my academic life, I have a cat named Taurus, who has accompanied me a
 
 Research Interests
 ======
-My current research focuses on the following areas:
-
-**Generative Model** - A key area in machine learning aimed at generating data samples from complex distributions and learning meaningful representations from unlabelled data across various domains such as audio, images, video, and text.
-
-**Representation Learning** - In this area, I work on developing algorithms that extract meaningful patterns from raw data to create representations that are easier to interpret and process. These representations can be designed for interpretability, uncover hidden features, or support transfer learning, with applications in fundamental tasks like image classification and retrieval.
+- Representation Learning with Generative Models  
+- Optimization in Generative Modeling  
+- Image Synthesis and Reconstruction  
+- Deepfake and AI-generated Content Detection  
+- Explainable Artificial Intelligence (XAI)
 
 Education
 ======
