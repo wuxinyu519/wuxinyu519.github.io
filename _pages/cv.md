@@ -16,12 +16,9 @@ Outside of my academic life, I have a cat named Taurus, who has accompanied me a
 
 News [Update!]
 ======
-- [05/2026] Our paper PURE is accepted by IJCAI 2026.
+- [05/2026] A paper was accepted by IJCAI 2026.
 - [02/2026] I will serve as a reviewer for SIGKDD 2026.
-- [11/2025] Our survey on Multi-Modal Foundation Models for Computational Pathology is accepted by TMLR.
-- [10/2025] Our survey on Explainable Image-Centric Forgery Detection is available on TechRxiv.
-- [03/2025] Our survey on Multi-Modal Foundation Models for Computational Pathology is available online.
-- [01/2025] Our survey on Computational Pathology Foundation Models is available online.
+- [11/2025] A paper was accepted by TMLR.
 
 Research Interests
 ======
