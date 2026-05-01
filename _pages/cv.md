@@ -33,9 +33,13 @@ Outside of my academic life, I have a cat named Taurus, who has accompanied me a
 
 <h2>News <span class="news-update">[Update!]</span></h2>
 
+- [08/2026] I will serve as a reviewer for EAI @ KDD 2026 and UDM @ KDD 2026.
+- [06/2026] I will serve as a reviewer for PAKDD 2026.
 - [05/2026] A paper was accepted by IJCAI 2026.
 - [02/2026] I will serve as a reviewer for SIGKDD 2026.
 - [11/2025] A paper was accepted by TMLR.
+- [08/2025] I served as a reviewer for IJCAI 2025, SIGKDD 2025 Tutorials, and EAI @ KDD 2025.
+- [05/2025] I served as a reviewer for ARRML 2025.
 
 Research Interests
 ======
