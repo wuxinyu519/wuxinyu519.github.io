@@ -15,7 +15,5 @@ Conference Program Committee / Reviewer
   * [The 30th Pacific-Asia Conference on Knowledge Discovery and Data Mining](https://www.pakdd2026.org/) (PAKDD'26)
   * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD'26)
 * 2025:
-  * [The 34th International Joint Conference on Artificial Intelligence](https://2025.ijcai.org/) (IJCAI'25)
-  * [31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Tutorials](https://kdd2025.kdd.org/) (SIGKDD'25 Tutorials)
   * [The 4th Workshop on Ethical Artificial Intelligence: Methods and Applications](https://meviuslab.github.io/EAI2025/) (EAI @ KDD'25)
   * [The 2nd Workshop on Advances in Robust and Reliable Machine Learning](https://sites.google.com/view/arrml-25/home) (ARRML'25)
