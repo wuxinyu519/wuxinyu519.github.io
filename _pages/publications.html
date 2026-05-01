@@ -12,16 +12,74 @@ author_profile: true
 
 {% include base_path %}
 
-<p>(* indicates equal contribution)</p>
+<style>
+  .archive > .page__title {
+    display: none;
+  }
 
-<h2>Conference Papers</h2>
+  .publications-page {
+    max-width: 980px;
+    padding-top: 1.5rem;
+  }
 
-<ol class="publication-list">
-  {% for post in site.publications reversed %}
-    {% if post.category == "conferences" %}
-      <li>
-        {% include archive-single.html type="list" %}
-      </li>
-    {% endif %}
-  {% endfor %}
-</ol>
+  .publications-page h2 {
+    margin: 0 0 1.2rem;
+    padding: 0;
+    border: 0;
+    font-size: 1.35rem;
+    line-height: 1.25;
+  }
+
+  .publications-page .publication-list {
+    margin: 0 0 0 1.65rem;
+    padding: 0;
+  }
+
+  .publications-page .publication-list > li {
+    margin-bottom: 1.05rem;
+    padding-left: 0.25rem;
+    font-size: 1rem;
+    line-height: 1.45;
+  }
+
+  .publications-page .list__item {
+    padding-right: 0;
+  }
+
+  .publications-page .archive__item-title.publication-title {
+    margin: 0;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.45;
+  }
+
+  .publications-page .pub-venue-tag {
+    font-weight: 700;
+  }
+
+  .publications-page .publication-authors,
+  .publications-page .publication-venue {
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.45;
+  }
+
+  .publications-page .archive__item:hover .archive__item-title {
+    text-decoration: none;
+  }
+</style>
+
+<div class="publications-page">
+  <h2>Conference Papers</h2>
+
+  <ol class="publication-list">
+    {% for post in site.publications reversed %}
+      {% if post.category == "conferences" %}
+        <li>
+          {% include archive-single.html type="list" %}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ol>
+</div>
