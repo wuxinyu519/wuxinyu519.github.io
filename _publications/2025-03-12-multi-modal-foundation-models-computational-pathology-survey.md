@@ -7,7 +7,7 @@ permalink: /publication/2025-03-12-multi-modal-foundation-models-computational-p
 excerpt: 'A survey on multi-modal foundation models for computational pathology.'
 date: 2025-03-12
 venue: 'Transactions on Machine Learning Research'
-venue_short: "TMLR'25"
+venue_short: 'TMLR'
 authors: 'Dong Li, Guihong Wan, Xintao Wu, **Xinyu Wu**, Xiaohui Chen, Yi He, Zhong Chen, Peter K. Sorger, Chen Zhao'
 proceedings: 'Transactions on Machine Learning Research, 2025'
 ---
