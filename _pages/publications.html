@@ -75,7 +75,31 @@ author_profile: true
 
   <ol class="publication-list">
     {% for post in site.publications reversed %}
-      {% if post.category == "conferences" %}
+      {% if post.pub_group == "conference" %}
+        <li>
+          {% include archive-single.html type="list" %}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ol>
+
+  <h2>Journal Articles</h2>
+
+  <ol class="publication-list">
+    {% for post in site.publications reversed %}
+      {% if post.pub_group == "journal" %}
+        <li>
+          {% include archive-single.html type="list" %}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ol>
+
+  <h2>Preprints</h2>
+
+  <ol class="publication-list">
+    {% for post in site.publications reversed %}
+      {% if post.pub_group == "preprint" %}
         <li>
           {% include archive-single.html type="list" %}
         </li>
