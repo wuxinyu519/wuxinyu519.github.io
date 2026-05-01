@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Conference Program Committee / Reviewer
+Conference Reviewer
 ======
 * 2026:
   * [The 5th Workshop on Ethical Artificial Intelligence: Methods and Applications](https://sites.google.com/view/eaikdd26/home) (EAI @ KDD'26)
