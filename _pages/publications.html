@@ -6,32 +6,24 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{https://scholar.google.co.kr/citations?user=n73fnfwAAAAJ&hl=zh-CN}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">
+    You can also find my articles on
+    <a href="https://scholar.google.co.kr/citations?user=n73fnfwAAAAJ&hl=zh-CN">my Google Scholar profile</a>.
+  </div>
 {% endif %}
 
 {% include base_path %}
 
-(* indicates equal contribution)
+<p>(* indicates equal contribution)</p>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
+<h2>Conference Papers</h2>
+
+<ol class="publication-list">
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    {% if post.category == "conferences" %}
+      <li>
+        {% include archive-single.html type="list" %}
+      </li>
+    {% endif %}
   {% endfor %}
-{% endif %}
-
-
+</ol>
