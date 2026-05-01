@@ -14,6 +14,15 @@ I am currently pursuing a PhD in the Computer Science Department at Baylor Unive
 Outside of my academic life, I have a cat named Taurus, who has accompanied me across South Korea, China, and the United States. In my free time, I enjoy watching comedy series, learning new hobbies, and swimming, which I find to be the perfect way to relax. If you share an interest in cats, traveling, or swimming, feel free to connect—I’m always open to a chat!
 
 
+News [Update!]
+======
+- [05/2026] Our paper PURE is accepted by IJCAI 2026.
+- [02/2026] I will serve as a reviewer for SIGKDD 2026.
+- [11/2025] Our survey on Multi-Modal Foundation Models for Computational Pathology is accepted by TMLR.
+- [10/2025] Our survey on Explainable Image-Centric Forgery Detection is available on TechRxiv.
+- [03/2025] Our survey on Multi-Modal Foundation Models for Computational Pathology is available online.
+- [01/2025] Our survey on Computational Pathology Foundation Models is available online.
+
 Research Interests
 ======
 - Representation Learning with Generative Models  
