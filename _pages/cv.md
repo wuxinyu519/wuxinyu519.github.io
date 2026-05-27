@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-I am currently pursuing a PhD in the Computer Science Department at Baylor University, Texas, under the supervision of [**Dr. Chen Zhao**](https://charliezhaoyinpeng.github.io/homepage/). Prior to this, I completed my M.S. in the Department of Artificial Intelligence at Dongguk University (DGU), South Korea, in March 2024, under the guidance of [Prof. Hyerung Jang](https://sites.google.com/view/hrjang/home). 
+I am currently a Ph.D. student in the Department of Computer Science at Baylor University, under the supervision of [**Dr. Chen Zhao**](https://charliezhaoyinpeng.github.io/homepage/). Prior to this, I received my M.S. in Artificial Intelligence from Dongguk University (DGU), South Korea, in March 2024, under the guidance of [Prof. Hyerung Jang](https://sites.google.com/view/hrjang/home).
 
-Outside of my academic life, I have a cat named Taurus, who has accompanied me across South Korea, China, and the United States. In my free time, I enjoy watching comedy series, learning new hobbies, and swimming, which I find to be the perfect way to relax. If you share an interest in cats, traveling, or swimming, feel free to connect—I’m always open to a chat!
+My research focuses on generative modeling, image synthesis and reconstruction, AI-generated content detection, explainable artificial intelligence, and computational pathology. My work has been published or accepted by venues including IJCAI, TMLR, KAIS, and Expert Systems with Applications.
 
+Outside of my academic life, I have a cat named Taurus, who has accompanied me across South Korea, China, and the United States. I also enjoy watching comedy series, learning new hobbies, and swimming.
 
 <style>
   .news-update {
