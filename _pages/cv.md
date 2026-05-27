@@ -33,16 +33,12 @@ Outside of my academic life, I have a cat named Taurus, who has accompanied me a
 
 <h2>News <span class="news-update">[Update!]</span></h2>
 
-- [05/2026] A paper was accepted by KAIS.
-- [05/2026] I was invited to serve as a reviewer for Frontiers.
-- [05/2026] I was invited to serve as a reviewer for ACM Computing Surveys.
-- [05/2026] A paper was accepted by IJCAI 2026.
-- [04/2026] I will serve as a reviewer for EAI @ KDD 2026 and UDM @ KDD 2026.
-- [02/2026] I will serve as a reviewer for SIGKDD 2026.
-- [01/2026] I will serve as a reviewer for PAKDD 2026.
-- [11/2025] A paper was accepted by TMLR.
-- [08/2025] I will serve as a reviewer for EAI @ KDD 2025.
-- [05/2025] I will serve as a reviewer for ARRML 2025.
+{% assign current_year = site.time | date: "%Y" %}
+{% assign current_news = site.data.news | where: "year", current_year %}
+
+{% for item in current_news %}
+- [{{ item.date }}] {{ item.text }}
+{% endfor %}
 
 Research Interests
 ======
