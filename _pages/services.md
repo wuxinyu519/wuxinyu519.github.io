@@ -7,6 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
+Journal Reviewer
+======
+* 2026:
+  * [ACM Computing Surveys](https://dl.acm.org/journal/csur)
+  * [Frontiers in Artificial Intelligence](https://www.frontiersin.org/journals/artificial-intelligence)
+
 Conference Reviewer
 ======
 * 2026:
